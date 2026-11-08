@@ -7,7 +7,7 @@ Bonsai trims a big IPTV channel list down to a small `.m3u` playlist for low spe
 
 <img src="docs/screenshot.png" alt="Bonsai on Windows, with the About box open" width="50%">
 
-**Download:** the latest version for Windows and Linux is on the [Releases page](https://github.com/hiraethclub/Bonsai/releases/latest).
+**Download:** the latest version for Windows and Linux is on the [Releases page](https://github.com/hiraethsystems/Bonsai/releases/latest).
 
 ## Security warning
 
@@ -180,7 +180,7 @@ The channel list is cached in `~/.cache/bonsai/` (`%LOCALAPPDATA%\bonsai\cache` 
 
 ## Ready-made builds (Windows and Linux)
 
-Released versions are on the [Releases page](https://github.com/hiraethclub/Bonsai/releases):
+Released versions are on the [Releases page](https://github.com/hiraethsystems/Bonsai/releases):
 
 - **`Bonsai-<version>-windows-x64.exe`**: a single file with no installer.
 - **`Bonsai-<version>-linux-x86_64.tar.gz`**: a single executable, plus a `.desktop` file and an icon. It is built on Ubuntu 22.04, so it runs on any x86-64 distribution with glibc 2.35 or newer (Debian 12 and 13, Ubuntu 22.04+). Unpack and run it:
